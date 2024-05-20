@@ -1,4 +1,4 @@
-# Citizen-Information-Management
+# Citizen Information Management
 
 ## Overview
 **Citizen Information Management** is a Java-based application designed to manage general information of citizens, including full names, addresses, email addresses, and other pertinent details. This project serves as a prototype to test and enhance proficiency in **Java Swing**, a part of the Java Foundation Classes used for building graphical user interfaces (GUIs). The use of **JavaFX** or other plugins is deliberately restricted to ensure a focused learning experience with **Java Swing**.

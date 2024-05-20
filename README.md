@@ -17,10 +17,7 @@ This project is developed as part of the academic requirements for the **Bachelo
 - Create a functional prototype for managing citizen information.
 - Apply best practices in software development and data management.
 - Fulfill the academic requirements for the **Bachelor of Science in Computer Science** at **Saint Louis University**.
-
-## Requirements
-- **Java JDK**: This project requires **Java Development Kit (JDK)** to be installed. It is recommended to use **JDK 14** or later for the best compatibility and features.
-
+  
 ## Usage
 This program is intended for educational purposes, providing a practical application for learning **Java Swing**. It is a prototype and should not be used for managing real-world citizen information without further development and security enhancements.
 
